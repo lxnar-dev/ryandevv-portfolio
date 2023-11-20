@@ -26,14 +26,14 @@ function AboutCard() {
               <ImPointRight /> Football
             </li>
             <li className="about-activity">
-              <ImPointRight /> other than that, i like talking to zaina.
+              <ImPointRight /> other than that, i like talking to zeina.
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "The quieter you are, the more you can listen."{" "}
+            "iskot bala ma adrobak"{" "}
           </p>
-          <footer className="blockquote-footer">Kali Linux</footer>
+          <footer className="blockquote-footer">Zeina</footer>
         </blockquote>
       </Card.Body>
     </Card>
